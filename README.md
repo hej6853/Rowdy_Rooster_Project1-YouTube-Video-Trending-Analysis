@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/79428102/120029168-9334f900-bfaa-11eb-8918-7aff6e045802.png)
 
 # YouTube-Video-Trending-Analysis
-The project topic began with the question "What is the special feature of popular vidoes?" 
+The project topic began with the question "What is the special feature of popular videos?" 
 
 ## Background
 As of 2020, there are 2+ billion logged-in monthly users out there. The number of channels grew more than 23%, and the number of channels that earn $10K USD per year or more grew by 50%. 70% of viewers bought from a brand after seeing it on YouTube. With the continued increase in revenue earned by channels through Youtube, identifying hot topics and key variables that contribute to a video’s success is very important. 
