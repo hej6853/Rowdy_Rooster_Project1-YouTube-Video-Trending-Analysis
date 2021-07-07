@@ -27,6 +27,8 @@ We Analyzed trending video data over the previous two years to discover possible
 ![image](https://user-images.githubusercontent.com/79428102/120030062-d479d880-bfab-11eb-8aa7-5bcfa8dc2808.png)
 
 ## Conclusion
+![image](https://user-images.githubusercontent.com/79428102/124825661-cc0caa00-df28-11eb-985a-398d773e8246.png)
+
 If you want to improve your YouTube channel’s performance, you need to understand your data. The plus side of all of this data is you can dive deep into your videos’ performance and understand what’s happening on a granular level. 
 
 65% of people are visual learners. Understanding these statistics not only helps individual creators to create better content but can also benefit businesses to target the main audience or target content. According to Forbes, correctly targeted visual contents increase the amount spent by a customer by 31%, allows the business to raise their prices by 11%, and improves the level of trust with 92% of consumers who research the business.
