@@ -15,7 +15,7 @@ We Analyzed trending video data over the previous two years to discover possible
 ● Python with Jupyter Notebook
 
 ## Libraries used
-● pandas
+● pandas 
 ● numpy
 ● matplotlib.pyplot
 ● seaborn
