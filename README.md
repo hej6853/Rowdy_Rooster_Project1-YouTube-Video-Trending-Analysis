@@ -27,6 +27,15 @@ We Analyzed trending video data over the previous two years to discover possible
 ## Dataset Summary
 ![image](https://user-images.githubusercontent.com/79428102/120030062-d479d880-bfab-11eb-8aa7-5bcfa8dc2808.png)
 
+## Data Proprocessing
+![image](https://user-images.githubusercontent.com/79428102/128902372-134d521f-33c0-4115-a756-1c505effc670.png)
+![image](https://user-images.githubusercontent.com/79428102/128902437-a477e4a9-da3c-4fd1-9136-4fc2509de056.png)
+
+## Data Analysis
+![image](https://user-images.githubusercontent.com/79428102/128902495-4ab2b435-8db6-45f0-898d-208fab90c74a.png)
+![image](https://user-images.githubusercontent.com/79428102/128902627-840f49c6-9acd-406c-a92d-b6f11f60dfaa.png)
+![image](https://user-images.githubusercontent.com/79428102/128902672-5f067df7-851b-476a-945a-0af39fcd05d0.png)
+
 ## Conclusion
 ![image](https://user-images.githubusercontent.com/79428102/124825661-cc0caa00-df28-11eb-985a-398d773e8246.png)
 
